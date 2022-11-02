@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Theyozz
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning anything
-- 💞️ I’m looking to collaborate with a dev that can do a bot that track some twitter account to know when they follow other account :)
 - 📫 How to reach me : Twitter -> @Theyozz_
 
 <!---
