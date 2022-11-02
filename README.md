@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Theyozz
-- 👀 I’m interested in a lot of things
+- 👀 I’m interested in a lot of thingss
 - 🌱 I’m currently learning anything
 - 📫 How to reach me : Twitter -> @Theyozz_
 
