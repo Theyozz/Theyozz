@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm @Theyozz</h1>
+<h1>Hi, I'm @Theyozz</h1>
 
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning anything
