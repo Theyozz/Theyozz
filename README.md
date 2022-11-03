@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Theyozz
+<h1 text-align=center>Hi, I'm @Theyozz</h1>
+
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning anything
 - 📫 How to reach me : Twitter -> @Theyozz_
