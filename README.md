@@ -13,9 +13,12 @@
     <img src="./logo-css.png" alt="" width="30">
     <img src="./js-logo.png" alt="" width="40">
     <img src="./logo-python.png" alt="" width="35">
+
+    
 </div>
 
 <h1>My Projects</h1>
     <div>
-        <img src="./raisin_logo - signature.png" alt="" width="80">
-    </div>
+        <img src="./raisin_logo - signature.png" alt="" width="100"> 
+        <img src="./newLogo.png" alt="" width="60">
+     </div>
