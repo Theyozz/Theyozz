@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning anything
 - 📫 How to reach me : <br>
         Twitter -> <a href="https://twitter.com/Theyozz_">@Theyozz_</a> <br>
-        Linkedin -> <a href="https://www.linkedin.com/in/th%C3%A9o-vieilledent-maurin/">Theo Vieilledent-Maurin</a>
+        Linkedin -> <a href="https://www.linkedin.com/in/th%C3%A9o-vieilledent-maurin/" target="_blank">Theo Vieilledent-Maurin</a>
 - 🐼 I like Pandas
 
 ---
