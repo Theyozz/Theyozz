@@ -6,7 +6,7 @@
 
 
 
-![Texte alternatif](./logo-html.png)
+![Texte alternatif](./logo-html.png =100x20)
 ![Texte alternatif](./logo-css.png)
 ![Texte alternatif](./js-logo.png)
 
