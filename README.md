@@ -6,7 +6,7 @@
 
 
 
-![Texte alternatif](./PhotoTEST.png)
+![Texte alternatif](./PhotoTEST.png){width = 50 ; height = 50}
 
 <!---
 Theyozz/Theyozz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
