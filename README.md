@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning anything
-- 📫 How to reach me : <br>
-        Twitter -> <a href="https://twitter.com/Theyozz_">@Theyozz_</a> <br>
+- 📫 How to reach me :
+        Twitter -> <a href="https://twitter.com/Theyozz_">@Theyozz_</a> 
 - 🐼 I like Pandas
 
 ---
