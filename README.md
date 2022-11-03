@@ -5,8 +5,7 @@
 - 📫 How to reach me :
         Twitter -> <a href="https://twitter.com/Theyozz_">@Theyozz_</a> 
 - 🐼 I like Pandas
-<br>
-<br>
+
 <h1>My Skills</h1>
 
 <div>
