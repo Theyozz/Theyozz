@@ -2,6 +2,7 @@
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning anything
 - 📫 How to reach me : Twitter -> @Theyozz_
+- 🐼 I like Panda's
 
 <!---
 Theyozz/Theyozz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
