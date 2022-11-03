@@ -2,20 +2,18 @@
 
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning anything
-- 📫 How to reach me : Twitter -> @Theyozz_
+- 📫 How to reach me : <br>
+        Twitter -> <a href="https://twitter.com/Theyozz_">@Theyozz_</a> <br>
+        Linkedin -> <a href="https://www.linkedin.com/in/th%C3%A9o-vieilledent-maurin/">Theo Vieilledent-Maurin</a>
 - 🐼 I like Pandas
 
 ---
 
 <div>
-<img src="./logo-html.png" alt="" width="40">
-<img src="./logo-css.png" alt="" width="30">
-<img src="./js-logo.png" alt="" width="40">
-<img src="./logo-python.png" alt="" width="35">
+    <img src="./logo-html.png" alt="" width="40">
+    <img src="./logo-css.png" alt="" width="30">
+    <img src="./js-logo.png" alt="" width="40">
+    <img src="./logo-python.png" alt="" width="35">
 </div>
 
-------
-<!---
-Theyozz/Theyozz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
