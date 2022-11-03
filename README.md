@@ -4,7 +4,7 @@
 - 📫 How to reach me : Twitter -> @Theyozz_
 - 🐼 I like Pandas
 
-![Texte alternatif](/Users/theovm/Theyozz/PhotoTEST.avif)
+![Texte alternatif](/Users/theovm/Theyozz/PhotoTEST.png)
 
 <!---
 Theyozz/Theyozz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
