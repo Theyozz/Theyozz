@@ -6,7 +6,7 @@
         Twitter -> <a href="https://twitter.com/Theyozz_">@Theyozz_</a> 
 - 🐼 I like Pandas
 
----
+<h1>My Skills</h1>
 
 <div>
     <img src="./logo-html.png" alt="" width="40">
