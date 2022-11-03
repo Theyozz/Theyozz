@@ -15,3 +15,7 @@
     <img src="./logo-python.png" alt="" width="35">
 </div>
 
+<h1>My Projects</h1>
+    <div>
+        <img src="./raisin_logo - signature.png" alt="" width="80">
+    </div>
