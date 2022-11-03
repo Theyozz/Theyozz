@@ -5,10 +5,10 @@
 - 🐼 I like Pandas
 
 
+<img src="./logo-html.png" alt="" width="40">
+<img src="./logo-css.png" alt="" width="30">
+<img src="./js-logo.png" alt="" width="40">
 
-![Texte alternatif](./logo-html.png=100x20);
-![Texte alternatif](./logo-css.png=100x20);
-![Texte alternatif](./js-logo.png=100x20);
 
 <!---
 Theyozz/Theyozz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
