@@ -6,9 +6,9 @@
 
 
 
-![Texte alternatif](./logo-html.png =100x20)
-![Texte alternatif](./logo-css.png)
-![Texte alternatif](./js-logo.png)
+![Texte alternatif](./logo-html.png=100x20)
+![Texte alternatif](./logo-css.png=100x20)
+![Texte alternatif](./js-logo.png=100x20)
 
 <!---
 Theyozz/Theyozz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
