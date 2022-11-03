@@ -4,11 +4,11 @@
 - 📫 How to reach me : Twitter -> @Theyozz_
 - 🐼 I like Pandas
 
-
+<div>
 <img src="./logo-html.png" alt="" width="40">
 <img src="./logo-css.png" alt="" width="30">
 <img src="./js-logo.png" alt="" width="40">
-
+</div>
 
 <!---
 Theyozz/Theyozz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
