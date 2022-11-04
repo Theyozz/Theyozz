@@ -26,3 +26,6 @@
             <img src="./newLogo.png" alt="" width="63"> 
         </a>
     </div>
+    
+     ## 😂 Voici une blague aléatoire qui vous fera rire!
+    ![Carte de blagues] https://readme-jokes.vercel.app/api
