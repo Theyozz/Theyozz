@@ -1,7 +1,7 @@
 <h1>Hi, I'm @Theyozz</h1>
 
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning anything
+- 🌱 I’m currently learning PHP & Symfony
 - 📫 How to reach me :
         Twitter -> <a href="https://twitter.com/Theyozz_">@Theyozz_</a> 
 - 🐼 I like Pandas
