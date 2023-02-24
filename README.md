@@ -18,7 +18,7 @@
 
 <h1>My Projects</h1>
     <div>
-        <a href="https://raisinceramic.com/categorie-produit/serie-raisin-ceramic/q"> 
+        <a href="https://raisinceramic.com/categorie-produit/serie-raisin-ceramic/"> 
             <img src="./raisin_logo - signature.png" alt="" width="140"> 
         </a>
         <a href="https://maelie-richarte.fr/"> 
