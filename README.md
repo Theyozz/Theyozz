@@ -12,7 +12,7 @@
     <img src="./logo-html.png" alt="" width="40">
     <img src="./logo-css.png" alt="" width="30">
     <img src="./js-logo.png" alt="" width="40">
-    <img src="./logo-docker.png" alt="" width="40">
+    <img src="logo-docker.png" alt="" width="40">
     
 </div>
 
