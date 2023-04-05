@@ -19,10 +19,10 @@
 ### My Projects
 [ ]([https://www.google.com](https://maelie-richarte.fr/))
         <a href="https://raisinceramic.com/"> 
-            <img src="./raisin_logo - signature.png" alt="" width="63"> 
+            <img src="./raisin_logo - signature.png" alt="" width="75"> 
         </a>
         <a href="https://maelie-richarte.fr/"> 
-            <img src="./newLogo.png" alt="" width="63"> 
+            <img src="./newLogo.png" alt="" width="75"> 
         </a>
 
 ### Stats
