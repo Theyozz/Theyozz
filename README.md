@@ -17,9 +17,7 @@
 </div>
 
 ### My Projects
-        <a href="https://raisinceramic.com/categorie-produit/serie-raisin-ceramic/"> 
-            <img src="./raisin_logo - signature.png" alt="" width="140"> 
-        </a>
+[<img src="./newLogo.png" alt="" width="63">]([https://www.google.com](https://maelie-richarte.fr/))
         <a href="https://maelie-richarte.fr/"> 
             <img src="./newLogo.png" alt="" width="63"> 
         </a>
