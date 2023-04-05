@@ -1,4 +1,4 @@
-##Hi, I'm @Theyozz
+## Hi, I'm @Theyozz
 
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning PHP & Symfony
@@ -6,7 +6,7 @@
         Twitter -> <a href="https://twitter.com/Theyozz_">@Theyozz_</a> 
 - 🐼 I like Pandas
 
-###My Skills
+### My Skills
 
 <div>
     <img src="./logo-html.png" alt="" width="40">
@@ -16,7 +16,7 @@
     
 </div>
 
-###My Projects
+### My Projects
     <div>
         <a href="https://raisinceramic.com/categorie-produit/serie-raisin-ceramic/"> 
             <img src="./raisin_logo - signature.png" alt="" width="140"> 
@@ -26,7 +26,7 @@
         </a>
     </div>
 
-###Stats
+### Stats
 ![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=theyozz&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theyozz&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
