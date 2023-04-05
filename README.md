@@ -17,14 +17,12 @@
 </div>
 
 ### My Projects
-    <div>
         <a href="https://raisinceramic.com/categorie-produit/serie-raisin-ceramic/"> 
             <img src="./raisin_logo - signature.png" alt="" width="140"> 
         </a>
         <a href="https://maelie-richarte.fr/"> 
             <img src="./newLogo.png" alt="" width="63"> 
         </a>
-    </div>
 
 ### Stats
 ![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=theyozz&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
