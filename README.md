@@ -16,7 +16,7 @@
     <img src="logo-docker.png" alt="" width="40">
     <img src="logo-PHP.png" alt="" width="40">
     <img src="logo-Symfony.png" alt="" width="40">
-    <img src="Java.png" alt="" width="40">
+    <img src="Java.png" alt="" width="20">
     
 </div>
 
