@@ -26,7 +26,7 @@
 </h1>
 
   <a href="https://www.chess.com/member/theyozz">
-    <img src="worst _chess_loose.gif" width="120">
+    <img src="worst _chess_loose.gif" width="160">
   </a>
 </div>
  <i>I'm probably the worst player you ever seen</i>
