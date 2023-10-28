@@ -1,7 +1,7 @@
 ## Hi, I'm @Theyozz
 
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning PHP & Symfony
+- 🌱 I’m currently learning JAVA, PHP & Symfony
 - 📫 How to reach me :
   - Twitter -> <a href="https://twitter.com/Theyozz_">@Theyozz\_</a>
   - Twouitteur -> <a href="http://twouitteur.atwebpages.com/login.php">@Theyozz</a>
@@ -16,7 +16,7 @@
     <img src="logo-docker.png" alt="" width="40">
     <img src="logo-PHP.png" alt="" width="40">
     <img src="logo-Symfony.png" alt="" width="40">
-    <img src="Java.png" alt="" width="20">
+    <img src="Java.png" alt="" width="25">
     
 </div>
 
