@@ -28,7 +28,7 @@
     <img src="worst _chess_loose.gif" width="160">
   </a>
 </div>
- <i>I'm probably the worst player you ever seen</i>
+ <i>Yea.. this is my game..</i>
 
 ### Stats
 
