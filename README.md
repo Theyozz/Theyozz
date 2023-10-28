@@ -20,6 +20,16 @@
     
 </div>
 
+<div>
+<h1>
+  let's go 1v1 ♟️
+</h1>
+
+  <a href="https://www.chess.com/member/theyozz">
+    <img src="worst _chess_loose.gif">
+  </a>
+</div>
+
 ### Stats
 
 ![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=theyozz&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
