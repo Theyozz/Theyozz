@@ -21,9 +21,8 @@
 </div>
 
 <div>
-<h1>
-  let's go 1v1 ♟️
-</h1>
+
+### Let's challenge me ♟️
 
   <a href="https://www.chess.com/member/theyozz">
     <img src="worst _chess_loose.gif" width="160">
