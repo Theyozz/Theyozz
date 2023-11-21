@@ -10,13 +10,15 @@
 ### My Skills
 
 <div>
-    <img src="logo-html.png" alt="" width="40">
-    <img src="logo-css.png" alt="" width="30">
-    <img src="js-logo.png" alt="" width="40">
-    <img src="logo-docker.png" alt="" width="40">
-    <img src="logo-PHP.png" alt="" width="40">
-    <img src="logo-Symfony.png" alt="" width="40">
-    <img src="Java.png" alt="" width="25">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Php" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40" />
+
     
 </div>
 
@@ -31,8 +33,8 @@
 
 ### Stats
 
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=theyozz&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
+![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=theyozz&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=false&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theyozz&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theyozz&hide_border=false&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
 
 [![Theyozz](https://github-profile-trophy.vercel.app/?username=theyozz&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
