@@ -36,4 +36,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theyozz&hide_border=false&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
 
-[![Theyozz](https://github-profile-trophy.vercel.app/?username=theyozz&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
