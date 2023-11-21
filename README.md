@@ -28,7 +28,6 @@
     <img src="worst _chess_loose.gif" width="160">
   </a>
 </div>
- <i>Yea.. this is my game..</i>
 
 ### Stats
 
